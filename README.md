@@ -30,12 +30,12 @@ b) Training GEDI L2A model with Sentinel-2
 c) Code to compare all results
 
 We compare the predictions of the four final models for 2019 heights.
-![Comparison of Models](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/1f68a6cd-bba7-48b9-ac45-2b62cda1f505)
+<img width="259.5" alt="Comparison of Models" src="https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/1f68a6cd-bba7-48b9-ac45-2b62cda1f505">
 
 # Usage
 
 Detecting changes in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
-![Mangrove Height Detection](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/de096cc5-65fd-44bc-bcc8-1e86eff7c57a)
+<img width="259.5" alt="Mangrove Height Detection" src="https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/de096cc5-65fd-44bc-bcc8-1e86eff7c57a">
 
 # License
 
