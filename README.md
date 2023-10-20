@@ -3,7 +3,7 @@
 Assessing Mangrove Canopy Heights in Myanmar using GEDI & Sentinel-2 for Effective Monitoring
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#Introduction)
 - [Data Sources](#DataSources)
 - [Code](#Code)
 - [Usage](#Usage)
@@ -12,15 +12,14 @@ Assessing Mangrove Canopy Heights in Myanmar using GEDI & Sentinel-2 for Effecti
 ## Introduction
 This repository contains the code that investigates mangrove heights by utilizing GEDI data.As part of the project, Sentinel-2 imagery 
 
-## Data Sources
-### Primary data sources
+## DataSources
 Sentinel-2 imagery
 GEDI 
 
-### Comparison models
+Comparison models
 Simard-2000 - https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1665 - Mangrove Height Distribution
 Lang-2021 - https://langnico.github.io/globalcanopyheight/
-
+Potapov-2019 - 
 
 ## Code
 We compare the 4 final models' predictions of the 2019 heights 
