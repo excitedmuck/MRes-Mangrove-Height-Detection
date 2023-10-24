@@ -41,8 +41,7 @@ Detecting changes in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
 <img width="259.5" alt="Mangrove Height Detection" src="https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/de096cc5-65fd-44bc-bcc8-1e86eff7c57a">
 
 # License
-
-The VCS1764 Global Canopy Height 2019 product is provided free of charge, without restriction of use. For the full license information, see the Creative Commons Attribution 4.0 International License. Publications, models, and data products that make use of these datasets must include proper acknowledgment, citing the datasets and the journal article as in the following citation.
+MIT
 
 # Citation
 
