@@ -25,8 +25,11 @@ This repository contains code that investigates mangrove heights by utilizing GE
 # Code
 
 The code is separated into three parts:
+
 a) Generic investigation of GEDI L1A products in Python
+
 b) Training GEDI L2A model with Sentinel-2
+
 c) Code to compare all results
 
 We compare the predictions of the four final models for 2019 heights.
@@ -43,4 +46,4 @@ The VCS1764 Global Canopy Height 2019 product is provided free of charge, withou
 
 # Citation
 
-Shukla Y., (2023). Mangrove Canopy Height Map for VCCS1764 in Myanmar, 2019.
+Shukla Y., (2023). Mangrove Canopy Height Map for VCS1764 in Myanmar, 2019.
