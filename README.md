@@ -32,6 +32,7 @@ b) Training GEDI L2A model with Sentinel-2
 
 c) Code to compare all results
 
+
 We compare the predictions of the four final models for 2019 heights.
 
 
