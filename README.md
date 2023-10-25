@@ -28,11 +28,12 @@ c) Code to compare all results
 
 We compare the predictions of the four final models for 2019 heights.
 
-Final TIFF file under investigation is in the Output folder of the OneDrive link - "Mangrove_hmax95_Myanmar.tif"
-
 ![Comparison of Models](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/1f68a6cd-bba7-48b9-ac45-2b62cda1f505)
 
 # Usage
+
+
+Final TIFF file shown below is in the Output folder of the OneDrive link - "Mangrove_hmax95_Myanmar.tif"
 
 Detecting changes in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
 
