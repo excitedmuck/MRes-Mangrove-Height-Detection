@@ -15,9 +15,6 @@ This repository contains code that investigates mangrove heights by utilizing GE
 # Code
 
 
-[Onedrive Link to Code](https://uniofnottm-my.sharepoint.com/:f:/g/personal/yashvini_shukla_nottingham_ac_uk/EgfFzlIcxcVDsOF6FtFl0BkBhJZCwZHERTV_A3a9vwaA8g?e=FnuVEj)
-
-
 The code is separated into three parts:
 
 a) Generic investigation of GEDI L1A products in Python
@@ -25,6 +22,12 @@ a) Generic investigation of GEDI L1A products in Python
 b) Training GEDI L2A model with Sentinel-2
 
 c) Code to compare all results
+
+
+
+The full dependencies(input) and final output (output) are accessible in the link below due to file size constraints on GitHub.
+
+[Onedrive Link to Code](https://uniofnottm-my.sharepoint.com/:f:/g/personal/yashvini_shukla_nottingham_ac_uk/EgfFzlIcxcVDsOF6FtFl0BkBhJZCwZHERTV_A3a9vwaA8g?e=FnuVEj)
 
 We compare the predictions of the four final models for 2019 heights.
 
@@ -41,7 +44,7 @@ Detecting changes in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
 
 # License
 
-MIT License. See the [LICENSE](link-to-license-file) file for details.
+MIT License. 
 
 # Citation
 
