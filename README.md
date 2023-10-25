@@ -47,4 +47,4 @@ MIT License.
 
 # Citation
 
-Shukla Y., (2023). Mangrove Canopy Height Map for VCS1764 in Myanmar, 2019. [Link to Citation](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/blob/main/README.md)
+Shukla Y., (2023). Mangrove Canopy Height Map for VCS1764 in Myanmar, 2019. 
