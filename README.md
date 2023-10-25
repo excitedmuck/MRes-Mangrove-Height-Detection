@@ -31,16 +31,15 @@ The full dependencies(input) and final output (output) are accessible in the lin
 
 We compare the predictions of the four final models for 2019 heights.
 
-![Comparison of Models](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/1f68a6cd-bba7-48b9-ac45-2b62cda1f505)
 
-# Usage
+<img width="550" alt="Comparison of models" src="https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/1f68a6cd-bba7-48b9-ac45-2b62cda1f505">
 
 
-Final TIFF file shown below is in the Output folder of the OneDrive link - "Mangrove_hmax95_Myanmar.tif"
+Final predicted heights using Rh60-model-2019 in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
 
-Detecting changes in mangrove height in Project VCS1764, Ayeyarwadi, Myanmar.
 
-![Mangrove Height Detection](https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/de096cc5-65fd-44bc-bcc8-1e86eff7c57a)
+<img width="550" alt="Mangrove Height Detection" src="https://github.com/excitedmuck/MRes-Mangrove-Height-Detection/assets/33532101/de096cc5-65fd-44bc-bcc8-1e86eff7c57a">
+
 
 # License
 
