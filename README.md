@@ -27,7 +27,7 @@ c) Code to compare all results
 
 The full dependencies(input) and final output (output) are accessible in the link below due to file size constraints on GitHub.
 
-[Onedrive Link to Code](https://uniofnottm-my.sharepoint.com/:f:/g/personal/yashvini_shukla_nottingham_ac_uk/EgfFzlIcxcVDsOF6FtFl0BkBhJZCwZHERTV_A3a9vwaA8g?e=FnuVEj)
+[Onedrive Link to Input/Output Folders](https://uniofnottm-my.sharepoint.com/:f:/g/personal/yashvini_shukla_nottingham_ac_uk/EgfFzlIcxcVDsOF6FtFl0BkBhJZCwZHERTV_A3a9vwaA8g?e=FnuVEj)
 
 We compare the predictions of the four final models for 2019 heights.
 
